@@ -1,0 +1,17 @@
+
+
+FileName:
+- Will use PascalCase
+	Example: TexturaRobot.png
+
+Variables:
+- Will use camelCase
+	Example: int numPunts
+
+Class Name:
+- Will use PascalCase
+	Example: RobotShoot.cpp
+
+Method Name:
+-Will use PascalCase
+	Example: IsZero();
